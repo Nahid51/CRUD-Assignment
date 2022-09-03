@@ -17,7 +17,6 @@ dbConnect();
 app.use("/user", userRouter);
 
 
-
 app.get("/", (req, res) => {
     res.send("Hello Node JS!")
 });

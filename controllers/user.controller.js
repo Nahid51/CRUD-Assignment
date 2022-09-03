@@ -61,7 +61,6 @@ export const updateSingleUser = (req, res) => {
         res.status(404).json({ message: "User not found!" });
     }
 
-
 };
 
 export const updateMultipleUser = (req, res) => {
@@ -83,8 +82,6 @@ export const updateMultipleUser = (req, res) => {
             res.json(updateResult);
         }
     }
-
-
 };
 
 export const deleteSingleUser = (req, res) => {
