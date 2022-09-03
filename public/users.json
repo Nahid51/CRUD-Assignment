@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "gender": "male",
+        "name": "Rahim",
+        "contact": "01369852147",
+        "address": "Dhaka",
+        "photoUrl": "/photo/rahim"
+    },
+    {
+        "id": 2,
+        "gender": "female",
+        "name": "Mim",
+        "contact": "01369852147",
+        "address": "Dhaka",
+        "photoUrl": "/photo/mim"
+    },
+    {
+        "id": 3,
+        "gender": "female",
+        "name": "Alia",
+        "contact": "01369852147",
+        "address": "Dhaka",
+        "photoUrl": "/photo/alia"
+    },
+    {
+        "id": 4,
+        "gender": "male",
+        "name": "Newaz",
+        "contact": "01369852147",
+        "address": "Dhaka",
+        "photoUrl": "/photo/newaz"
+    },
+    {
+        "id": 5,
+        "gender": "male",
+        "name": "Sajib",
+        "contact": "01369852147",
+        "address": "Dhaka",
+        "photoUrl": "/photo/sajib"
+    },
+    {
+        "id": 6,
+        "gender": "male",
+        "name": "Anwar",
+        "contact": "01369852147",
+        "address": "Dhaka",
+        "photoUrl": "/photo/anwar"
+    },
+    {
+        "id": 7,
+        "gender": "female",
+        "name": "Nusrat",
+        "contact": "01369852147",
+        "address": "Dhaka",
+        "photoUrl": "/photo/nusrat"
+    }
+]
